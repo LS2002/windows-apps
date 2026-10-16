@@ -1,0 +1,10 @@
+*.exe
+*.pdb
+*.user
+*.suo
+bin/
+obj/
+ref/
+self-test-result.txt
+.vs/
+*.log
